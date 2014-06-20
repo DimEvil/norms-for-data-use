@@ -1,8 +1,8 @@
-# Canadensys norms for data use and publication
+# INBO norms for data use and publication (Based on Canadensys)
 
 ## Purpose
 
-[This repository](https://github.com/Canadensys/canadensys-norms) contains the *norms for data use and publication*, developed and used by [Canadensys](http://www.canadensys.net), a network of Canadian biological collections. The norms are published at <http://www.canadensys.net/norms>.
+[This repository] (https://github.com/DimEvil/norms-for-data-use) contains the forked *norms for data use and publication*, developed as used by [Canadensys](http://www.canadensys.net), a network of Canadian biological collections. The original norms are published at <http://www.canadensys.net/norms>. These norms will be adapted for INBO. The Research Institute for Nature and Forest. [INBO] (www.inbo.be)
 
 These norms are not a legal document, but encourage (our) publishers and users to share and use data in a way that helps to build a vibrant community around the data and support future efforts to unlock biodiversity data.
 

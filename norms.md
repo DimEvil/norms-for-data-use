@@ -1,26 +1,34 @@
-# Norms for data use and publication
+# Norms for data use and publication!
 
-The text below describes the INBO norms for data publication and use and is based on the Canadensys norms for data use and publication (http://www.canadensys.net/about/norms) . These norms are not a legal document, but by adopting them, you help to build a vibrant community around the data and support future efforts to unlock biodiversity data.
+The text below describes the INBO norms for data publication and use and is based on the Canadensys norms for data use and publication document (http://www.canadensys.net/about/norms) . These norms are not a legal document, but by adopting them, you help to build a vibrant community around the data and support future efforts to unlock biodiversity data.
 
 
 ## Give credit where credit is due
 
-As is common practice in scientific research, cite the data you are using. Scientists and personnel have invested a lot of time and effort in creating and publishing the biodiversity information you are using, and they deserve credit for their work. For more information on how to cite datasets you can find more information following this link: [http://www.gbif.org/resources/2381] (http://www.gbif.org/resources/2381)
+As is common practice in scientific research, cite the data you are using. Scientists, volunteers and personnel have invested a lot of time and effort in creating and publishing the biodiversity information you are using, and they deserve credit for their work. For more information on how to cite datasets you can find more information following this link: [http://www.gbif.org/resources/2381] (http://www.gbif.org/resources/2381)
 
 ## Be responsible
 
-Use the data responsibly! The data are published to allow anyone to better study and understand the world around us, so do not use the data in any way that is unlawful, harmful or misleading. Understand that the data are subject to change, errors and sampling bias and that reading the metadata will help you to understand the data. Protect the reputation of the data publisher and clearly indicate any changes you may have made to the data.
+Use the data responsibly! The data are published to allow anyone to better study and understand the world around us, so do not use the data in any way that is unlawful, harmful or misleading. Understand that the data are subject to change, errors and sampling bias and that reading the metadata will help you to understand the data and how it was obtained.
+
+## Coperate
+
+The data is published for you to use. But don't hesitate to ask more information about the dataset by contacting the Insitute or the contact person which you can find in the metadata. There might be opportunities in there. Also for comments, errors, etc you can conact us by clicking on the GIThub link in the metatdata section of every dataset. 
+
+## Github
+
+We have created a repository for every dataset in Github. [https://github.com/orgs/LifeWatchINBO/dashboard](https://github.com/orgs/LifeWatchINBO/dashboard) In Github you can create issues about every dataset.
 
 
 ## Share knowledge
 
-Let us know if you have used the data. It helps our participants to showcase their efforts and it helps you reach a wider audience. You can [contact us](http://www.canadensys.net/contact) or share your work via [our public forum](http://www.canadensys.net/forum).
+Let us know if you have used the data. It helps our participants to showcase their efforts and it helps you reach a wider audience. You can [contact us](http://http://www.inbo.be/content/contact.asp).
 
-Inform the data publisher(s) if you have comments about the data, notice errors, or want more information. Their contact details are included in the dataset metadata and on [our repository](http://data.canadensys.net/ipt).
+Inform the data publisher(s) if you have comments about the data, notice errors, or want more information. 
 
 ## Respect the data license
 
-Understand and respect the data licence or waiver under which the data are published. It is indicated in the *[rights](http://rs.tdwg.org/dwc/terms/index.htm#dcterms:rights)* field of every record and in the dataset metadata. To help you [make greater use of the data](http://www.canadensys.net/2012/why-we-should-publish-our-data-under-cc0), most of our participants have dedicated their data to the [public domain (CC0)](http://creativecommons.org/publicdomain/zero/1.0/). Do not remove the public domain mark or provide misleading information about the copyright status.
+Understand and respect the data licence or waiver under which the data are published. It is indicated in the *[rights](http://rs.tdwg.org/dwc/terms/index.htm#dcterms:rights)* field of every record and in the dataset metadata. To help you [make greater use of the data](http://www.canadensys.net/2012/why-we-should-publish-our-data-under-cc0) we try to publish all the data in the [public domain (CC0)](http://creativecommons.org/publicdomain/zero/1.0/). Please, do not remove the public domain mark or provide misleading information about the copyright status. 
 
 ## Data publication conditions
 

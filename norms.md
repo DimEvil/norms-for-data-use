@@ -9,7 +9,7 @@ As is common practice in scientific research, cite the data you are using. Scien
 
 ## Be responsible
 
-Use the data responsibly. The data are published to allow anyone to better study and understand the world around us, so do not use the data in any way that is unlawful, harmful or misleading. Understand that the data are subject to change, errors and sampling bias and that reading the metadata will help you to understand the data. Protect the reputation of the data publisher and clearly indicate any changes you may have made to the data.
+Use the data responsibly! The data are published to allow anyone to better study and understand the world around us, so do not use the data in any way that is unlawful, harmful or misleading. Understand that the data are subject to change, errors and sampling bias and that reading the metadata will help you to understand the data. Protect the reputation of the data publisher and clearly indicate any changes you may have made to the data.
 
 
 ## Share knowledge

@@ -32,10 +32,10 @@ Understand and respect the data licence or waiver under which the data are publi
 
 ## Data publication conditions
 
-We care about data and we just want to make sure you do too. In order to [publish your data](http://www.canadensys.net/publication) through the Canadensys network, you should meet the following criteria:
+We care about data and we just want to make sure you do too. In order to [publish your data](http://data.inbo.be/ipt) through the Research Institute for Nature and Forest, you should meet the following criteria:
 
-* You are associated with a Canadian collection or organization.
-* You are publishing a specimen or observation dataset, a taxonomic checklist, or metadata about one of these (i.e., one of the 3 types of datasets supported by the [IPT](http://www.canadensys.net/ipt)).
+
+* You are publishing a specimen or observation dataset, a taxonomic checklist, or metadata about one of these (i.e., one of the 3 types of datasets supported by the [IPT](http://www.data.inbo.be/ipt)).
 * You hold the rights to publish the data.
 * You are willing to maintain the dataset and improve its quality where possible.
 * You are willing to provide sufficient metadata, so users can learn what the dataset is about.
@@ -43,7 +43,7 @@ We care about data and we just want to make sure you do too. In order to [publis
 
 ## <a id="citations"></a>Preferred citations
 
-These are the preferred formats for citing data published through the Canadensys network. If other citation practices apply, feel free to use them. We do request however to always include a link.
+These are the preferred formats for citing data published through INBO. If other citation practices apply, feel free to use them. We do request however to always include a link.
 
 ### Aggregated data
 

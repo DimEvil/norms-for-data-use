@@ -1,14 +1,16 @@
 # Norms for data use and publication
 
-The text below describes the [Canadensys](http://www.canadensys.net) norms for data publication and use. These norms are not a legal document, but by adopting them, you help to build a vibrant community around the data and support future efforts to unlock biodiversity data.
+The text below describes the INBO norms for data publication and use and is based on the Canadensys norms for data use and publication (http://www.canadensys.net/about/norms) . These norms are not a legal document, but by adopting them, you help to build a vibrant community around the data and support future efforts to unlock biodiversity data.
+
 
 ## Give credit where credit is due
 
-As is common practice in scientific research, cite the data you are using. Our participants have invested a lot of time and effort into collecting, digitizing, maintaining, and publishing the biodiversity information you are using, and they deserve credit for their work. [You can find the preferred formats for citation at the end of this document](#citations).
+As is common practice in scientific research, cite the data you are using. Scientists and personnel have invested a lot of time and effort in creating and publishing the biodiversity information you are using, and they deserve credit for their work. For more information on how to cite datasets you can find more information following this link: [http://www.gbif.org/resources/2381] (http://www.gbif.org/resources/2381)
 
 ## Be responsible
 
-Use the data responsibly. The data are published to allow anyone to better study and understand the world around us, so please do not use the data in any way that is unlawful, harmful or misleading. Understand that the data are subject to change, errors and sampling bias. Protect the reputation of the data publisher and clearly indicate any changes you may have made to the data.
+Use the data responsibly. The data are published to allow anyone to better study and understand the world around us, so do not use the data in any way that is unlawful, harmful or misleading. Understand that the data are subject to change, errors and sampling bias and that reading the metadata will help you to understand the data. Protect the reputation of the data publisher and clearly indicate any changes you may have made to the data.
+
 
 ## Share knowledge
 
